@@ -1,4 +1,5 @@
-
+.idea/*
+*.auto.tfvars
 # Created by https://www.toptal.com/developers/gitignore/api/jetbrains+all,vscode,terraform
 # Edit at https://www.toptal.com/developers/gitignore?templates=jetbrains+all,vscode,terraform
 
